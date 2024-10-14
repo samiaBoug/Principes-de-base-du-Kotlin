@@ -23,9 +23,9 @@ package com.example.myapplication
 }*/
 fun main(){
 
-        val trafficLightColor = "Black"
+    val trafficLightColor = "Black"
 
-      var message =  when (trafficLightColor ) {
+      val message = when (trafficLightColor ) {
           "Red" -> "Stop"
           "Yellow" -> "Slow"
           "Green" -> "Go"
