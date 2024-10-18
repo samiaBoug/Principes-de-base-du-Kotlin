@@ -46,7 +46,7 @@ class MainActivity : ComponentActivity() {
 fun CarteVisite( modifier: Modifier = Modifier) {
     var option by remember { mutableIntStateOf(1) }
     val titre = stringResource(R.string.titre)
-    // Déterminer l'image, le sous-titre et la description en fonction de l'option
+   
     val image = when (option) {
         1 -> R.drawable.taounate
         2 -> R.drawable.environnement
@@ -102,7 +102,7 @@ fun CarteVisite( modifier: Modifier = Modifier) {
 
 
             Button(onClick = {
-                // Change l'option à chaque clic
+
                 option = if (option in 1.. 4) option ++ else 1
             }) {
                 Image(
@@ -112,7 +112,7 @@ fun CarteVisite( modifier: Modifier = Modifier) {
                 )
             }
 
-            // Sous-titre
+
             Text(
                 text = stringResource(subtitle),
                 fontSize = 16.sp,
@@ -120,7 +120,7 @@ fun CarteVisite( modifier: Modifier = Modifier) {
                 modifier = Modifier.padding(vertical = 8.dp)
             )
 
-            // Description
+
             Text(
                 text = stringResource(descriptionText),
                 fontSize = 14.sp,
