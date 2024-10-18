@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             ProjetCarteVilleTheme {
-                CarteVisite(
+                CarteVille(
 
                 )
             }
@@ -43,10 +43,10 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun CarteVisite( modifier: Modifier = Modifier) {
+fun CarteVille( modifier: Modifier = Modifier) {
     var option by remember { mutableIntStateOf(1) }
     val titre = stringResource(R.string.titre)
-   
+
     val image = when (option) {
         1 -> R.drawable.taounate
         2 -> R.drawable.environnement
@@ -134,7 +134,7 @@ fun CarteVisite( modifier: Modifier = Modifier) {
 @Composable
 fun CarteVisitePreview() {
     ProjetCarteVilleTheme {
-        CarteVisite(
+        CarteVille(
         )
 
 
