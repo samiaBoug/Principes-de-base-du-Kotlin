@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Projet carte ville</string>
+    <string name="titre">Taounate</string>
+    <string name="sousTitre1">Présentation </string>
+    <string name="sousTitre2">Géographie et environnement </string>
+    <string name="sousTitre3">Culture et traditions </string>
+    <string name="sousTitre4">Tourisme </string>
+
+
+
+
+    <string name="createBy">Créer par : BOUGTOUB Samia</string>
+    <string name="text4">\n    Le tourisme à Taounate est principalement axé sur la nature et l\'écotourisme. \n    Les montagnes environnantes offrent de magnifiques opportunités de randonnée, \n    avec des vues panoramiques sur les vallées et les plaines. \n    Les visiteurs peuvent découvrir les villages berbères authentiques, encore peu touchés par la modernité, \n    où l\'on peut apprécier l\'artisanat et la cuisine locale.\n    \n    Les amateurs de nature sont attirés par les forêts de chênes verts et de cèdres, \n    ainsi que par la faune et la flore diversifiées de la région. \n    Les sources naturelles et les petits cours d\'eau qui traversent les montagnes \n    sont aussi des lieux populaires pour les escapades en pleine nature.\n</string>
+    <string name="text3">\n    Taounate est profondément enracinée dans la culture berbère, et cela se reflète dans les festivités locales,\n    les marchés hebdomadaires (souks), et l\'architecture des maisons traditionnelles en pierre. Les habitants de Taounate sont\n    connus pour leur hospitalité et leur attachement aux valeurs communautaires.\n\n    La ville et ses alentours abritent plusieurs festivals locaux, notamment des moussem (festivals religieux) et des événements culturels\n    qui célèbrent les traditions musicales et artisanales de la région. Les chants traditionnels rifains et les danses populaires\n    font partie intégrante des célébrations locales.\n</string>
+    <string name="text2">\n    Taounate est située à environ 80 km au nord de Fès, et son altitude lui offre un climat\n    tempéré, propice à l\'agriculture.\n    La région est particulièrement fertile grâce à ses vastes plaines et\n    ses montagnes environnantes. Le paysage est marqué par des collines et des vallées où l\'on cultive principalement\n    des oliviers, du blé, ainsi que diverses cultures maraîchères. La proximité de la ville avec la chaîne du Rif lui confère\n    une importance stratégique en tant que point d\'entrée vers les montagnes et les zones rurales reculées. Les rivières,\n    comme l\'oued Ouargha, qui traverse la région, sont une source précieuse d\'irrigation pour les terres agricoles environnantes.\n</string>
+    <string name="text1">\n    Située au nord du Maroc, Taounate est une ville charmante et paisible, nichée dans les montagnes du Rif.\n    Capitale de la province du même nom, Taounate est principalement connue pour son environnement naturel, ses traditions\n    agricoles, et son cadre montagnard. C\'est une ville à la croisée des chemins entre tradition et modernité, qui séduit\n    par la beauté de ses paysages et la richesse de son patrimoine culturel.\n</string>
+</resources>
